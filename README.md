@@ -15,7 +15,7 @@ It is something similar to the AngularJS Quick Start but does the entire build w
 
 [http://valor-software.github.io/ng2-bootstrap/](http://valor-software.github.io/ng2-bootstrap/)
 
-Note: there are some issue to discuss with the author.
+~~Note: there are some issue to discuss with the author.~~
 
 # How to start
 
