@@ -13,6 +13,7 @@ import {
 autoRegisterTasks();
 
 registerInjectableAssetsRef(PATH.src.jslib_inject, PATH.dest.dev.lib);
+// registerInjectableAssetsRef(['ng2-bootstrap.js'], PATH.dest.dev.lib);
 registerInjectableAssetsRef(PATH.src.csslib, PATH.dest.dev.css);
 
 
@@ -36,6 +37,7 @@ gulp.task('build.dev', done =>
   runSequence('clean.dist',
               'tslint',
               'build.jslib.dev',
+              'build.ng2bs.dev',
               'build.sass.dev',
               'build.js.dev',
               'build.csslib.dev',
