@@ -1,3 +1,10 @@
+# angular2-seed & ng2-bootstrap
+
+Integration showcase of [ng2-bootstrap](http://valor-software.github.io/ng2-bootstrap/) with [angular2-seed](https://mgechev.github.io/angular2-seed).
+Use [angular2-seed](https://mgechev.github.io/angular2-seed) to start new project.
+
+---
+
 # Introduction
 
 [![Join the chat at https://gitter.im/mgechev/angular2-seed](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mgechev/angular2-seed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -11,11 +18,6 @@ It is something similar to the AngularJS Quick Start but does the entire build w
 
 **Note:** Angular 2.0 is not production ready yet! This seed project is perfect for playing around with the latest versions but do not start new projects with it since a lot of new changes are going to be introduced until the framework is officially released.
 
-# Test ng2-bootstrap
-
-[http://valor-software.github.io/ng2-bootstrap/](http://valor-software.github.io/ng2-bootstrap/)
-
-~~Note: there are some issue to discuss with the author.~~
 
 # How to start
 
