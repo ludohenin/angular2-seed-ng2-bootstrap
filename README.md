@@ -1,9 +1,12 @@
 # angular2-seed & ng2-bootstrap
 
 Integration showcase of [ng2-bootstrap](http://valor-software.github.io/ng2-bootstrap/) with [angular2-seed](https://mgechev.github.io/angular2-seed).
+
 Use [angular2-seed](https://mgechev.github.io/angular2-seed) to start new project.
 
+
 ---
+
 
 # Introduction
 
